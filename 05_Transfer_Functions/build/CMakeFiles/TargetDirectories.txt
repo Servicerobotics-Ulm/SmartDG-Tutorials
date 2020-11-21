@@ -1,3 +1,0 @@
-/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG/tutorials/05_Transfer_Functions/build/CMakeFiles/rebuild_cache.dir
-/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG/tutorials/05_Transfer_Functions/build/CMakeFiles/edit_cache.dir
-/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG/tutorials/05_Transfer_Functions/build/CMakeFiles/Transfer_Functions.dir

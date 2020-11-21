@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Transfer_Functions.dir/src/Main.cpp.o  -o Transfer_Functions  -lSmartDG /usr/local/lib/libfltk.a -lpthread -ldl -lpthread -lSM -lICE -lX11 -lXext -lXrender -lXft -lfontconfig 

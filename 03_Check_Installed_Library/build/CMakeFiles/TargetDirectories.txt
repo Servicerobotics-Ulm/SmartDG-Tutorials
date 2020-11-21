@@ -1,3 +1,0 @@
-/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG/tutorials/03_Check_Installed_Library/build/CMakeFiles/rebuild_cache.dir
-/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG/tutorials/03_Check_Installed_Library/build/CMakeFiles/edit_cache.dir
-/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG/tutorials/03_Check_Installed_Library/build/CMakeFiles/TestSmartDGLibrary.dir

@@ -1,3 +1,0 @@
-/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG/tutorials/09_System_Project_Litemode/build/CMakeFiles/edit_cache.dir
-/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG/tutorials/09_System_Project_Litemode/build/CMakeFiles/rebuild_cache.dir
-/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG/tutorials/09_System_Project_Litemode/build/CMakeFiles/System_Project_Litemode.dir

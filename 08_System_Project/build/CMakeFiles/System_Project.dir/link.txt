@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/System_Project.dir/src/Main.cpp.o  -o System_Project  -lSmartDG /usr/local/lib/libfltk.a -lpthread -ldl -lpthread -lSM -lICE -lX11 -lXext -lXrender -lXft -lfontconfig 

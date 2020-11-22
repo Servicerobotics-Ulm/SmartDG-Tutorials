@@ -8,7 +8,7 @@ Tier-2 Environment model being compiled and built.
 
 3
 00:00:56,068 --> 00:00:59,650
-SmartDGbox folder appeart at SMART_ROOT_ACE if not already present.
+SmartDGbox folder appeared at SMART_ROOT_ACE if not already present.
 
 4
 00:00:59,650 --> 00:01:08,547
@@ -32,7 +32,7 @@ The src-gen folder of the built Tier-2 Environment is not to be disturbed.
 
 9
 00:01:39,936 --> 00:01:46,193
-Paste the component and connector transfer function in the src folder of the built Tier-2 Environment.
+Paste the component and connector transfer functions in the src folder of the built Tier-2 Environment.
 
 10
 00:01:46,293 --> 00:02:18,796
@@ -56,7 +56,7 @@ Add a new SmartDG model to the component project.
 
 15
 00:03:19,365 --> 00:03:22,911
-The "do" (Dependency Object) and "de" (Tier-3 dependency environment) models will be generated. The de model is empty by default.
+The "do" (Dependency Object) and "de" (Tier-3 dependency environment) models will be generated. The "de" model is empty by default.
 
 16
 00:03:23,411 --> 00:03:50,168

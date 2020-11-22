@@ -1,2 +1,7 @@
 Install gnome subtitles from Ubuntu software manager
 Edit Commentary.srt on "Ubuntu Subtitles" software
+Execute "Generate_Hero_Video.sh" on completion
+
+Read: https://trac.ffmpeg.org/wiki/HowToBurnSubtitlesIntoVideo
+
+

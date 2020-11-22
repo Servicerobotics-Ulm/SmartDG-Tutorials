@@ -107,6 +107,6 @@ In SmartDG execution for component models, any change in dependency objects asso
 This simulates a change in dependency objects associated with output ports in a direction opposite to the natural (Output port to Input port) flow of service data between two components.
 
 28
-00:06:48,368 --> 00:07:11,168
+00:06:48,368 --> 00:07:48,968
 By switching the business direction, values of input ports can be changed to trigger the forward transfer function (TF).
 

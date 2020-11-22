@@ -116,7 +116,7 @@ In an existing SmartMDSD system project.
 
 30
 00:07:30,000 --> 00:07:51,000
-Components instances that are of components with the existing SmartDG component models.
+Component instances that are of components with the existing SmartDG component models.
 
 31
 00:07:52,000 --> 00:08:07,000
@@ -140,7 +140,7 @@ SmartDG source code and the corresponding executable is generated at the HOME lo
 
 36
 00:08:52,000 --> 00:09:01,000
-Connectors from the Tier-2 Environment model can be specified for specific Dependency connections.
+Connectors (CS05, DF etc.) from the Tier-2 Environment model can be specified for specific Dependency connections.
 
 37
 00:09:02,000 --> 00:09:11,100
@@ -152,7 +152,7 @@ SmartDG models (source code and executables) are regenerated after every change 
 
 39
 00:09:22,000 --> 00:09:31,000
-The latest SmartDG component and system executables are copied into the SmartDG_Assortments folder for easy one place access.
+The latest SmartDG component and system executables are copied into the SmartDG_Assortment folder for easy one-place access.
 
 40
 00:09:32,000 --> 00:09:41,000
@@ -168,7 +168,7 @@ Interlinked windows are generated for "Component Views" and "Dependency Object" 
 
 43
 00:10:02,000 --> 00:10:14,000
-Changes in dependency objects across the system of views are available for standalone (detached) or synced (attached) mode.
+Changes in dependency objects across views are available for standalone (detached) or synced (attached) observation modes.
 
 44
 00:10:15,000 --> 00:10:23,000
@@ -188,7 +188,7 @@ A SmartDG execution for a system model generates a folder named "SmartDGlite" in
 
 48
 00:10:52,000 --> 00:11:01,000
-To use the "SmartDG Lite Mode", Execute the "LaunchServer.sh" script from another terminal window to launch the data-sync server.
+To use the "SmartDG Lite Mode", Execute the "LaunchServer.sh" script from another terminal window. This is to launch the data-sync server.
 
 49
 00:11:02,000 --> 00:11:19,000

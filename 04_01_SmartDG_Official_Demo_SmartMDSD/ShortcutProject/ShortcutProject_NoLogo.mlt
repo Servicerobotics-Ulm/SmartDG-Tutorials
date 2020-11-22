@@ -1,0 +1,687 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.23.0" title="Shotcut version 20.10.31" producer="main_bin">
+  <profile description="HD 1080p 25 fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Front.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T17:31:04</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">1c4dfda0384d308f7d346fe7de109079</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:15.240">
+    <property name="length">00:00:15.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Importing_DE_Model_For_Environment_SmartMDSD_A15.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T13:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">17f89e72c7befad4457a35286624634f</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Slides/DE.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T18:38:16</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6d8909da3588a36f2ab6ad2986c89045</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Slides/DG.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T18:39:40</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">83b410a9cf37c804935c2a016490be51</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Slides/DO.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T18:39:04</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ed024aba9b04972c8575fe3477e84869</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Slides/DE_nologo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T19:54:13</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">1195a51759b5dbcfe91f9c708a5ea9fc</property>
+    <property name="shotcut:caption">DE_nologo.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Slides/DG_nologo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T19:55:39</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">50e77ba100d3ae66f01c8805a762de41</property>
+    <property name="shotcut:caption">DG_nologo.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Slides/DO_nologo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T19:54:50</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9e5242eb4871469c004e75eb7c1de11d</property>
+    <property name="shotcut:caption">DO_nologo.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/End.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T17:31:55</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2b74c0a91cf5767124815d875296091</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="00:00:59.560">
+    <property name="length">00:00:59.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Importing_DE_Model_For_Environment_SmartMDSD_A14.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T13:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">40a4fedba1e164c7a16b075d30f0e3e1</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/VideoBottomLogo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T19:50:56</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9eebf08c699547ac4512fca69aa051c4</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="00:01:52.960">
+    <property name="length">00:01:53.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Adding_DO_Model_to_Component_Project_SmartMDSD_A17.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T15:05:24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fa6ff08267952bf91ceb17c54ff8eccf</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="00:02:52.200">
+    <property name="length">00:02:52.240</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Tutorial_03_04_Using_Litemode_A27.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T17:15:25</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">72375e00c5e8c941670a5beb4cef2927</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="00:03:08.000">
+    <property name="length">00:03:08.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Adding_DG_Model_to_System_Project_SmartMDSD_A25.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T16:06:56</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7875c6a13dbdadb0f98b9dfc5b1cbdae</property>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="00:01:15.360">
+    <property name="length">00:01:15.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Adding_DO_Model_to_Component_Project_SmartMDSD_B14.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T15:05:24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">596b6a8910404b2452abc3cbb706543f</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="00:01:37.800">
+    <property name="length">00:01:37.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Adding_DO_Model_to_Component_Project_SmartMDSD_C14.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T15:05:24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ba73e6e6b703d419d29e78a38eecdd1a</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="00:00:15.240">
+    <property name="length">00:00:15.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Importing_DE_Model_For_Environment_SmartMDSD_A15.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T13:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">17f89e72c7befad4457a35286624634f</property>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="00:00:03.080">
+    <property name="length">00:00:03.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Importing_DE_Model_For_Environment_SmartMDSD_A16Speedy.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T13:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b7f6cfce96b62a17a9d2d3364dd641ee</property>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="00:00:20.480">
+    <property name="length">00:00:20.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Importing_DE_Model_For_Environment_SmartMDSD_B4Speedy.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T13:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">71f821f43610f56b91dde443d200f838</property>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="00:00:35.000">
+    <property name="length">00:00:35.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Importing_DE_Model_For_Environment_SmartMDSD_C7.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T13:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5e70e7aa79409f26d859fdd61e234f61</property>
+  </producer>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:15.240"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:59.560"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:01:52.960"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:02:52.200"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:03:08.000"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:01:15.360"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:01:37.800"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:15.240"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:03.080"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:20.480"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:35.000"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:13:20.040">
+    <property name="length">00:13:20.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:13:20.040"/>
+  </playlist>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Front.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T17:31:04</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">1c4dfda0384d308f7d346fe7de109079</property>
+    <property name="shotcut:caption">Front.png</property>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Slides/DE_nologo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T19:54:13</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">1195a51759b5dbcfe91f9c708a5ea9fc</property>
+    <property name="shotcut:caption">DE_nologo.png</property>
+    <property name="ignore_points">0</property>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="00:00:59.560">
+    <property name="length">00:00:59.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Importing_DE_Model_For_Environment_SmartMDSD_A14.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T13:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">40a4fedba1e164c7a16b075d30f0e3e1</property>
+    <property name="shotcut:caption">Importing_DE_Model_For_Environment_SmartMDSD_A14.mp4</property>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="00:00:15.240">
+    <property name="length">00:00:15.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Importing_DE_Model_For_Environment_SmartMDSD_A15.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T13:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">17f89e72c7befad4457a35286624634f</property>
+    <property name="shotcut:caption">Importing_DE_Model_For_Environment_SmartMDSD_A15.mp4</property>
+  </producer>
+  <producer id="producer24" in="00:00:00.000" out="00:00:03.080">
+    <property name="length">00:00:03.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Importing_DE_Model_For_Environment_SmartMDSD_A16Speedy.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T13:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b7f6cfce96b62a17a9d2d3364dd641ee</property>
+    <property name="shotcut:caption">Importing_DE_Model_For_Environment_SmartMDSD_A16Speedy.mp4</property>
+  </producer>
+  <producer id="producer25" in="00:00:00.000" out="00:00:20.480">
+    <property name="length">00:00:20.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Importing_DE_Model_For_Environment_SmartMDSD_B4Speedy.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T13:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">71f821f43610f56b91dde443d200f838</property>
+    <property name="shotcut:caption">Importing_DE_Model_For_Environment_SmartMDSD_B4Speedy.mp4</property>
+  </producer>
+  <producer id="producer26" in="00:00:00.000" out="00:00:35.000">
+    <property name="length">00:00:35.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Importing_DE_Model_For_Environment_SmartMDSD_C7.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T13:25:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5e70e7aa79409f26d859fdd61e234f61</property>
+    <property name="shotcut:caption">Importing_DE_Model_For_Environment_SmartMDSD_C7.mp4</property>
+  </producer>
+  <producer id="producer27" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Slides/DO_nologo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T19:54:50</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9e5242eb4871469c004e75eb7c1de11d</property>
+    <property name="shotcut:caption">DO_nologo.png</property>
+    <property name="ignore_points">0</property>
+  </producer>
+  <producer id="producer28" in="00:00:00.000" out="00:01:52.960">
+    <property name="length">00:01:53.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Adding_DO_Model_to_Component_Project_SmartMDSD_A17.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T15:05:24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fa6ff08267952bf91ceb17c54ff8eccf</property>
+    <property name="shotcut:caption">Adding_DO_Model_to_Component_Project_SmartMDSD_A17.mp4</property>
+  </producer>
+  <producer id="producer29" in="00:00:00.000" out="00:01:15.360">
+    <property name="length">00:01:15.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Adding_DO_Model_to_Component_Project_SmartMDSD_B14.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T15:05:24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">596b6a8910404b2452abc3cbb706543f</property>
+    <property name="shotcut:caption">Adding_DO_Model_to_Component_Project_SmartMDSD_B14.mp4</property>
+  </producer>
+  <producer id="producer30" in="00:00:00.000" out="00:01:37.800">
+    <property name="length">00:01:37.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Adding_DO_Model_to_Component_Project_SmartMDSD_C14.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T15:05:24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ba73e6e6b703d419d29e78a38eecdd1a</property>
+    <property name="shotcut:caption">Adding_DO_Model_to_Component_Project_SmartMDSD_C14.mp4</property>
+  </producer>
+  <producer id="producer31" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Slides/DG_nologo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T19:55:39</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">50e77ba100d3ae66f01c8805a762de41</property>
+    <property name="shotcut:caption">DG_nologo.png</property>
+    <property name="ignore_points">0</property>
+  </producer>
+  <producer id="producer32" in="00:00:00.000" out="00:03:08.000">
+    <property name="length">00:03:08.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Adding_DG_Model_to_System_Project_SmartMDSD_A25.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T16:06:56</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7875c6a13dbdadb0f98b9dfc5b1cbdae</property>
+    <property name="shotcut:caption">Adding_DG_Model_to_System_Project_SmartMDSD_A25.mp4</property>
+  </producer>
+  <producer id="producer33" in="00:00:00.000" out="00:02:52.200">
+    <property name="length">00:02:52.240</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/Tutorial_03_04_Using_Litemode_A27.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-21T17:15:25</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">72375e00c5e8c941670a5beb4cef2927</property>
+    <property name="shotcut:caption">Tutorial_03_04_Using_Litemode_A27.mp4</property>
+  </producer>
+  <producer id="producer34" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/End.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T17:31:55</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2b74c0a91cf5767124815d875296091</property>
+    <property name="shotcut:caption">End.png</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <property name="shotcut:lock">1</property>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:59.560"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:15.240"/>
+    <entry producer="producer24" in="00:00:00.000" out="00:00:03.080"/>
+    <entry producer="producer25" in="00:00:00.000" out="00:00:20.480"/>
+    <entry producer="producer26" in="00:00:00.000" out="00:00:35.000"/>
+    <entry producer="producer27" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer28" in="00:00:00.000" out="00:01:52.960"/>
+    <entry producer="producer29" in="00:00:00.000" out="00:01:15.360"/>
+    <entry producer="producer30" in="00:00:00.000" out="00:01:37.800"/>
+    <entry producer="producer31" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer32" in="00:00:00.000" out="00:03:08.000"/>
+    <entry producer="producer33" in="00:00:00.000" out="00:02:52.200"/>
+    <entry producer="producer34" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <producer id="producer35" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/VideoBottomLogo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T19:50:56</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9eebf08c699547ac4512fca69aa051c4</property>
+    <property name="shotcut:caption">VideoBottomLogo.png</property>
+  </producer>
+  <producer id="producer36" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/VideoBottomLogo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T19:50:56</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9eebf08c699547ac4512fca69aa051c4</property>
+    <property name="shotcut:caption">VideoBottomLogo.png</property>
+  </producer>
+  <producer id="producer37" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/nagrath/SOFTWARE/SmartDG-GITs/SmartDG-Tutorials/04_01_SmartDG_Official_Demo_SmartMDSD/Media/VideoBottomLogo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-21T19:50:56</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9eebf08c699547ac4512fca69aa051c4</property>
+    <property name="shotcut:caption">VideoBottomLogo.png</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <property name="shotcut:lock">1</property>
+    <blank length="00:00:08.000"/>
+    <entry producer="producer35" in="00:00:00.000" out="00:02:13.520"/>
+    <blank length="00:00:04.000"/>
+    <entry producer="producer36" in="00:00:00.000" out="00:04:46.200"/>
+    <blank length="00:00:04.000"/>
+    <entry producer="producer37" in="00:00:00.000" out="00:06:00.240"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 20.10.31" global_feed="1" in="00:00:00.000" out="00:13:20.040">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">0.303013</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>

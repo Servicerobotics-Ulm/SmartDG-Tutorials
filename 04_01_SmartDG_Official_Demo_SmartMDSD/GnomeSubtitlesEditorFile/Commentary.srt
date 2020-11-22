@@ -1,0 +1,24 @@
+﻿1
+00:00:09,467 --> 00:00:48,506
+Importing a SmartDG Tier-2 Environment model.
+
+2
+00:00:49,428 --> 00:00:54,268
+Tier-2 Environment model being compiled and built.
+
+3
+00:00:56,068 --> 00:00:59,650
+SmartDGbox folder appeart at SMART_ROOT_ACE if not already present.
+
+4
+00:00:59,650 --> 00:01:08,547
+The newly imported Tier-2 Environment is generated/re-generated here.
+
+5
+00:01:08,547 --> 00:01:23,630
+Several Tier-2 Environment models can be imported in SMART_ROOT_ACE.
+
+6
+00:01:23,630 --> 00:01:27,119
+Once Imported, the Tier-2 Environment project can be closed.
+

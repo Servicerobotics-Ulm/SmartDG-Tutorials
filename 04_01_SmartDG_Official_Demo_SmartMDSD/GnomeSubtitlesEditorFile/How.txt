@@ -1,0 +1,2 @@
+Install gnome subtitles from Ubuntu software manager
+Edit Commentary.srt on "Ubuntu Subtitles" software

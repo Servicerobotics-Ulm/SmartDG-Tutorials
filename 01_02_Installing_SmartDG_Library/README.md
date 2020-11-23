@@ -31,6 +31,7 @@ sudo make install
 
 ### Optional : Generate documentation
 Run "Generate_Documentation.sh" script in "doc" folder of SmartDG Library.
+
 :information_source: [See Tutorial](../99_02_SmartDG_Developer_Doxygen_Tips/README.md)
 
 ### Optional : Import tutorials

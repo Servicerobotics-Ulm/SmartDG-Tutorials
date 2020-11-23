@@ -132,7 +132,7 @@ bash Install_Eclipse_SmartMDSD-DG.sh
 
 You will see the following message in case this is your first time running this script on a machine where SmartMDSD elements are not installed.
 
-> :information_source: This will not be the case if you are starting with the [Official Virtual Machine and the SmartMDSD Toolchain](https://wiki.servicerobotik-ulm.de/tutorials:launching-vm-and-toolchain:start). See [This Tutorial](../03_01_Installing_SmartDG_DSLs_On_SmartMDSD_VirtualMachine/README.md) before going through the current tutorial.
+> :information_source: This will not be the case if you are starting with the [Official Virtual Machine and the SmartMDSD Toolchain](https://wiki.servicerobotik-ulm.de/tutorials:launching-vm-and-toolchain:start). In case you are, See [This Tutorial](../03_01_Installing_SmartDG_DSLs_On_SmartMDSD_VirtualMachine/README.md) before going through the current tutorial.
 
 :warning: Must restart your machine if you see the following message.
 
@@ -144,7 +144,7 @@ You will notice that smartsoft folder will appear at "HOME/SOFTWARE" if it was m
 
 #### Download and run the installation script
 
-Open a new terminal window and run the [Installing Script](Install_Eclipse_SmartMDSD-DG.sh) again.
+Open a new terminal window and run the [Installing Script](Install_Eclipse_SmartMDSD-DG.sh) (again !! in case you have already run it once in the step above).
 
 ```bash 
 bash Install_Eclipse_SmartMDSD-DG.sh
@@ -169,7 +169,7 @@ The [Installing Script](Install_Eclipse_SmartMDSD-DG.sh) imports corresponding S
 
 ![alt text](Installing_SmartDG_DSLs_On_Eclipse_B6.png)
 
-SmartDG-Models repository contains models for SmartDG Tier-2 Environments, COmponents, Systems, Services and verified Transfer Functions provided by component manufacturers.
+SmartDG-Models repository contains models for SmartDG Tier-2 Environments, Components, Systems, Services and verified Transfer Functions provided by component manufacturers.
 
 ![alt text](Installing_SmartDG_DSLs_On_Eclipse_B7.png)
 

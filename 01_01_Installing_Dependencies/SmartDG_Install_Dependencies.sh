@@ -1,3 +1,4 @@
+#!/bin/bash
 YOPTION="-y"
 #YOPTION=""
 echo "########################################## SmartDG_Install_Dependencies START"

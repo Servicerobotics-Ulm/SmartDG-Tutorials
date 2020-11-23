@@ -10,6 +10,7 @@ bash SmartDG_Install_Dependencies.sh
 <summary>SmartDG_Install_Dependencies.sh</summary>
 
 ```bash
+#!/bin/bash
 YOPTION="-y"
 #YOPTION=""
 echo "########################################## SmartDG_Install_Dependencies START"

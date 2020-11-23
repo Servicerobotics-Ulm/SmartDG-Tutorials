@@ -4,7 +4,7 @@
 ### Build "Check Installed Library" tutorial
 
 ```bash
-cd tutorials/03_Check_Installed_Library/
+cd tutorials/01_03_Check_Installed_Library/
 mkdir build
 cd build
 cmake ..

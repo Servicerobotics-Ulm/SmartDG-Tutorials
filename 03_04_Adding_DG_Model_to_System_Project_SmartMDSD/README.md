@@ -60,7 +60,7 @@ The "dg" default model will import the Tier-2 Dependency base environment from S
 
 ![alt text](Adding_DG_Model_to_System_Project_SmartMDSD_A14.png)
 
-> SmartDG Component View "Huey" : Another two instances of Component "OneUser" from Tier-3 User Environment. Both of these uses generic functions as well.
+> SmartDG Component View "Huey" and "Dewey" : Another two instances of Component "OneUser" from Tier-3 User Environment. Both of these uses generic functions as well.
 
 ![alt text](Adding_DG_Model_to_System_Project_SmartMDSD_A15.png)
 

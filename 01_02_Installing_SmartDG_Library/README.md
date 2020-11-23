@@ -10,6 +10,7 @@ git clone https://github.com/Servicerobotics-Ulm/SmartDG.git
 ![alt text](02_Installing_SmartDG_Library_A1.png)
 
 * Downloading the SmartDG Library archive.
+
 ![alt text](02_Installing_SmartDG_Library_A2.png)
 ```bash 
 unzip SmartDG-main.zip
@@ -30,13 +31,15 @@ sudo make install
 
 ### Optional : Generate documentation
 Run "Generate_Documentation.sh" script in "doc" folder of SmartDG Library.
-[See Tutorial](../99_02_SmartDG_Developer_Doxygen_Tips/README.md)
+:information_source: [See Tutorial](../99_02_SmartDG_Developer_Doxygen_Tips/README.md)
 
 ### Optional : Import tutorials
 Run "FETCH_TUTORIALS.sh" script in "tutorials" folder of SmartDG Library.
-Watch video "FETCH_TUTORIALS.mp4" in "tutorials" folder of SmartDG Library.
+
+:information_source: Watch video "FETCH_TUTORIALS.mp4" in "tutorials" folder of SmartDG Library.
 
 ### Optional : Import examples
 Run "FETCH_EXAMPLES.sh" script in "tutorials" folder of SmartDG Library.
-Watch video "FETCH_EXAMPLES.mp4" in "tutorials" folder of SmartDG Library.
+
+:information_source: Watch video "FETCH_EXAMPLES.mp4" in "tutorials" folder of SmartDG Library.
 

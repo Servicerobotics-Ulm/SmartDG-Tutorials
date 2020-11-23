@@ -71,6 +71,7 @@ echo "########################################## SmartDG_Install_Dependencies DO
 ![alt text](Installing_Dependencies_Script2.png)
 
 Associated Videos:
+
 [Running Script on a new Ubuntu 20.04 Machine](SmartDG_Install_DependenciesSpeedy.mp4)
 
 [Running Script when all dependencies are already installed](SmartDG_Install_Dependencies_II_RunSpeedy.mp4)

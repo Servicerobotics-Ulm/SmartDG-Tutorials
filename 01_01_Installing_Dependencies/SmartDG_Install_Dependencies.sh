@@ -1,7 +1,7 @@
 YOPTION="-y"
 #YOPTION=""
 echo "########################################## SmartDG_Install_Dependencies START"
-echo "########################################## Updateing apt-get"
+echo "########################################## Updating apt-get"
 sudo apt-get update
 echo "########################################## Installing build-essential"
 sudo apt-get $YOPTION install build-essential

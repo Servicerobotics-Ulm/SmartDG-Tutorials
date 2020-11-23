@@ -3,7 +3,7 @@
 
 > :information_source: In case you are working with the [Official Virtual Machine and the SmartMDSD Toolchain](https://wiki.servicerobotik-ulm.de/tutorials:launching-vm-and-toolchain:start). See [This Tutorial](../03_01_Installing_SmartDG_DSLs_On_SmartMDSD_VirtualMachine/README.md) before going through the following steps.
 
-#### Download and run the installation script on a generic machine
+### Download and run the installation script on a generic machine
 > :warning: Skip this step in case you are working with the [Official Virtual Machine and the SmartMDSD Toolchain](https://wiki.servicerobotik-ulm.de/tutorials:launching-vm-and-toolchain:start). 
 > :warning: See [This Tutorial](../03_01_Installing_SmartDG_DSLs_On_SmartMDSD_VirtualMachine/README.md) before going any further in the current tutorial.
 
@@ -142,7 +142,9 @@ You will notice that smartsoft folder will appear at "HOME/SOFTWARE" if it was m
 
 ![alt text](Installing_SmartDG_DSLs_On_Eclipse_A3.png)
 
-#### Download and run the installation script
+:information_source: Watch video [Installation script on a generic machine](Installing_SmartDG_DSLs_On_Eclipse_A4.mp4)
+
+### Download and run the installation script
 
 Open a new terminal window and run the [Installing Script](Install_Eclipse_SmartMDSD-DG.sh) (again !! in case you have already run it once in the step above).
 
@@ -173,9 +175,139 @@ SmartDG-Models repository contains models for SmartDG Tier-2 Environments, Compo
 
 ![alt text](Installing_SmartDG_DSLs_On_Eclipse_B7.png)
 
-#### Install SmartDG-DSL on the newly installed Eclipse with SmartMDSD plugins
+:information_source: Watch video [Installation script](Installing_SmartDG_DSLs_On_Eclipse_B8Speedy.mp4)
+
+### Install SmartDG-DSL on the newly installed Eclipse with SmartMDSD plugins
 
 Open the folder "SmartMDSD-DG", click of the executable file named "eclipse" to launch the freshly installed Eclipse instance. This instance comes with SmartMDSD plugins preinstalled. 
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C1.png)
+
+Click on "Install New Software" option in the "Help" menu.
+> Help > Install New Software
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C2.png)
+
+Add a local repository and point it to the "build" folder in "SmartDG-DSL-vx".
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C3.png)
+
+Select and install the "SmartDG.DSL" software under "SmartDG" category.
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C4.png)
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C5.png)
+
+> Accept the terms of the license agreement.
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C6.png)
+
+> :information_source: Install anyway !!
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C7.png)
+
+> :information_source: Allow Restart !!
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C8.png)
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C9.png)
+
+You can check if the installation went through fine.
+> Help > About Eclipse IDE > Installation Details
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C10.png)
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C11.png)
+
+"SmartDG.DSL" should appear in the list of installed software.
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C12.png)
+
+:information_source: Watch video [SmartDG-DSL on Eclipse with SmartMDSD](Installing_SmartDG_DSLs_On_Eclipse_C16Speedy.mp4)
+
+### Make "SmartDG Console" visible
+
+> Window > Show View > Other... > Console
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C13.png)
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C14.png)
+
+Select "SmartDG Console" from Console drop down menu.
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_C15.png)
+
+### Install dependencies
+
+> Help > Install New Software
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_D1.png)
+
+#### Xtext and Sirius
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_D2.png)
+
+#### EclipseLink
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_D3.png)
+
+> Next !
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_D4.png)
+
+> Accept the terms of the license agreement.
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_D5.png)
+
+> :information_source: Allow Restart !!
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_D6.png)
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_D7.png)
+
+You can check if the installation went through fine.
+> Help > About Eclipse IDE > Installation Details
+
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_D8.png)
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_D9.png)
+![alt text](Installing_SmartDG_DSLs_On_Eclipse_D10.png)
+
+:information_source: Watch video [Install dependencies](Installing_SmartDG_DSLs_On_Eclipse_D11Speedy.mp4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -75,7 +75,7 @@ make
 
 ![alt text](System_Project_Litemode_B17.png)
 
-#### Several calls to Transfer and Inverse Transfer Functions through several calls to Solver.
+#### Several calls to Transfer Functions through several calls to Solver.
 
 ![alt text](System_Project_Litemode_B18.png)
 
@@ -83,7 +83,7 @@ make
 
 ![alt text](System_Project_Litemode_B19.png)
 
-## Do not forget to exit from the data sync server running in the other window (Control + C).
+#### Do not forget to exit from the data sync server running in the other window (Control + C).
 
 ![alt text](System_Project_Litemode_B20.png)
 

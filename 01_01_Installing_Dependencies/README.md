@@ -2,7 +2,9 @@
 ## Installing Dependencies
 #### Installing using dependency install script.
 Open a new terminal window and run the [script](SmartDG_Install_Dependencies.sh) found in the current folder.
-```bash bash SmartDG_Install_Dependencies.sh ```
+```bash 
+bash SmartDG_Install_Dependencies.sh 
+```
 <details>
 <p>
 <summary>SmartDG_Install_Dependencies.sh</summary>
@@ -74,52 +76,74 @@ echo "########################################## SmartDG_Install_Dependencies DO
 #### Manual step by step install
 
 [A] Updating apt-get
-```bash sudo apt-get update ```
+```bash 
+sudo apt-get update 
+```
 ![alt text](Installing_Dependencies_A.png)
 
 [B] Installing build-essential
-```bash sudo apt-get install build-essential ```
+```bash 
+sudo apt-get install build-essential 
+```
 ![alt text](Installing_Dependencies_B1.png)
 ![alt text](Installing_Dependencies_B2.png)
 
- ```bash cat /usr/share/doc/build-essential/list ```
+ ```bash 
+ cat /usr/share/doc/build-essential/list 
+ ```
 ![alt text](Installing_Dependencies_B3.png)
 ![alt text](Installing_Dependencies_B4.png)
 
 [C] Installing cmake
-```bash sudo apt install cmake ```
+```bash 
+sudo apt install cmake 
+```
 ![alt text](Installing_Dependencies_C.png)
 
 [D] Installing git
-```bash sudo apt install git ```
+```bash 
+sudo apt install git 
+```
 ![alt text](Installing_Dependencies_D.png)
 
 [E] Installing libx11-dev
-```bash sudo apt install libx11-dev ```
+```bash 
+sudo apt install libx11-dev 
+```
 ![alt text](Installing_Dependencies_E1.png)
 ![alt text](Installing_Dependencies_E2.png)
 
 [F] Installing libglu1-mesa-dev
-```bash sudo apt-get install libglu1-mesa-dev ```
+```bash 
+sudo apt-get install libglu1-mesa-dev 
+```
 ![alt text](Installing_Dependencies_F1.png)
 ![alt text](Installing_Dependencies_F2.png)
 
 [G] Installing freeglut3-dev
-```bash sudo apt-get install freeglut3-dev ```
+```bash 
+sudo apt-get install freeglut3-dev 
+```
 ![alt text](Installing_Dependencies_G1.png)
 ![alt text](Installing_Dependencies_G2.png)
 
 [H] Installing mesa-common-dev
-```bash sudo apt-get install mesa-common-dev ```
+```bash 
+sudo apt-get install mesa-common-dev 
+```
 ![alt text](Installing_Dependencies_H.png)
 
 [I] Installing libxft-dev
-```bash sudo apt-get install libxft-dev ```
+```bash 
+sudo apt-get install libxft-dev 
+```
 ![alt text](Installing_Dependencies_I1.png)
 ![alt text](Installing_Dependencies_I2.png)
 
 [J] Installing fltk
-```bash git clone https://github.com/fltk/fltk.git ```
+```bash 
+git clone https://github.com/fltk/fltk.git 
+```
 ![alt text](Installing_Dependencies_J.png)
 
 [K] Building fltk

@@ -9,5 +9,6 @@
 > :warning: It is not possible to build and run SmartDG DSL models on Eclipse without SmartDG Library installed on your machine.
 > :warning: Install SmartDG Library on your machine before you install SmartDG DSLs On Eclipse [This Tutorial](../01_02_Installing_SmartDG_Library/README.md).
 
-### You can now jump to [This Tutorial](../02_01_Installing_SmartDG_DSLs_On_Eclipse/README.md) and start from the second step. Look for the following indication :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon:.
+### You can now jump to [This Tutorial](../02_01_Installing_SmartDG_DSLs_On_Eclipse/README.md) and start from the second step. Look for the following indication...
+### :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon:.
 

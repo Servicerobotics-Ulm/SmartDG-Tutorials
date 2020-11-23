@@ -65,7 +65,7 @@
 
 ### Components with Transfer functions provided by an imported Tier-2 Environment
 
-Unless provided by the Tier-2 Environment, generic transfer functions are generated for the component. Correct forward and reverse business logic can be deployed by editing these generic transfer functions. We demonstrate this using a component "TwoMapMaker" which utilizes a Transfer functions provided by an imported Tier-2 Environment.
+Unless provided by the Tier-2 Environment, generic transfer functions are generated for the component. Correct forward and reverse business logic can be deployed by editing these generic transfer functions. We demonstrate this using a component "TwoMapMaker" which utilizes a Transfer function provided by an imported Tier-2 Environment.
 
 > Adding new DG model to existing SmartDG component project
 
@@ -119,7 +119,7 @@ Unless provided by the Tier-2 Environment, generic transfer functions are genera
 
 ![alt text](Adding_DO_Model_to_Component_Project_SmartMDSD_C1.png)
 
-> Transfer functions for the component "TwoMapMaker" for instance are provided by the Tier-2 Dependency base environment.
+> Transfer functions for the component "TwoMapMaker" are provided by the Tier-2 Dependency base environment.
 
 ![alt text](Adding_DO_Model_to_Component_Project_SmartMDSD_C2.png)
 
@@ -156,10 +156,4 @@ Unless provided by the Tier-2 Environment, generic transfer functions are genera
 ![alt text](Adding_DO_Model_to_Component_Project_SmartMDSD_C13.png)
 
 :information_source: Watch video [Tier-3 User Environments with both Generic and Tier-2 Environment Transfer functions](Adding_DO_Model_to_Component_Project_SmartMDSD_C14.mp4)
-
-------------------------------------------------------------------------------------------------------------
-
-### Adding SmartDG Dependency Graph Model to SmartMDSD System Projects
-
-
 

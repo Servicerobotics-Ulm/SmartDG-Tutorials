@@ -1,36 +1,70 @@
 # SmartDG Tutorials
-##Installing Dependencies
-####Installing using dependency install script.
+## Installing Dependencies
+#### Installing using dependency install script.
 Open a new terminal window and run the script **"SmartDG_Install_Dependencies.sh"** found in the current folder.
 <details>
 <p>
 <summary>SmartDG_Install_Dependencies.sh</summary>
 
 ```bash
-echo "Hello"
+YOPTION="-y"
+#YOPTION=""
+echo "########################################## SmartDG_Install_Dependencies START"
+echo "########################################## Updateing apt-get"
+sudo apt-get update
+echo "########################################## Installing build-essential"
+sudo apt-get $YOPTION install build-essential
+echo "########################################## Installing cmake"
+sudo apt $YOPTION install cmake
+echo "########################################## Installing git"
+sudo apt $YOPTION install git
+echo "########################################## Installing libx11-dev"
+sudo apt $YOPTION install libx11-dev
+echo "########################################## Installing libglu1-mesa-dev"
+sudo apt-get $YOPTION install libglu1-mesa-dev
+echo "########################################## Installing freeglut3-dev"
+sudo apt-get $YOPTION install freeglut3-dev
+echo "########################################## Installing mesa-common-dev"
+sudo apt-get $YOPTION install mesa-common-dev
+echo "########################################## Installing libxft-dev"
+sudo apt-get $YOPTION install libxft-dev
+echo "########################################## Installing fltk"
+if [ -e "/usr/local/lib/libfltk.a" ]
+then
+echo "########################################## fltk | /usr/local/lib/libfltk.a already exists"
+echo "########################################## fltk | Manually re-install if desired"
+else
+echo "########################################## fltk | Cloning fltk"
+	mkdir -p ~/SOFTWARE/
+	cd ~/SOFTWARE/
+	sudo rm -r ~/SOFTWARE/fltk
+	git clone https://github.com/fltk/fltk.git
+	cd ~/SOFTWARE/fltk	
+echo "########################################## fltk | Building fltk"		
+	mkdir ~/SOFTWARE/fltk/build
+	cd ~/SOFTWARE/fltk/build
+	cmake ..
+	make
+echo "########################################## fltk | Installing fltk"		
+	sudo make install
+fi
+echo "########################################## Installing openjdk-11-jdk"
+sudo apt-get $YOPTION install openjdk-11-jdk
+java --version
+echo "########################################## Installing nodejs"
+sudo apt $YOPTION install nodejs
+node -v
+echo "########################################## Installing npm"
+sudo apt $YOPTION install npm
+npm -v
+echo "########################################## Installing Browsersync"
+sudo npm $YOPTION install -g browser-sync
+echo "########################################## SmartDG_Install_Dependencies DONE "
 ```
 </p>
 </details>
 
-<details>
-<summary>I could use some help...</summary>
-<p>
-
-```c#
-public class Order
-{
-    public int OrderId { get; set; }
-    public int CustomerId { get; set; }
-
-    public List<int> Products { get; set; }
-}
-\```
-
-</p>
-</details>  
-
-
-####Manual step by step install
+#### Manual step by step install
 
 [A] sudo apt-get update
 ![alt text](Installing_Dependencies_A.png)

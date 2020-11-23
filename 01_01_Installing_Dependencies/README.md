@@ -1,9 +1,39 @@
-# SmartDG
-A C++ Library used by Dependency-Graph extension of SmartMDSD Toolchain
-## Tutorial: Installing Dependencies
+# SmartDG Tutorials
+##Installing Dependencies
+####Installing using dependency install script.
+Open a new terminal window and run the script **"SmartDG_Install_Dependencies.sh"** found in the current folder.
+<details>
+<p>
+<summary>SmartDG_Install_Dependencies.sh</summary>
 
+```bash
+echo "Hello"
+```
+</p>
+</details>
+
+<details>
+<summary>I could use some help...</summary>
+<p>
+
+```c#
+public class Order
+{
+    public int OrderId { get; set; }
+    public int CustomerId { get; set; }
+
+    public List<int> Products { get; set; }
+}
+\```
+
+</p>
+</details>  
+
+
+####Manual step by step install
 
 [A] sudo apt-get update
+![alt text](Installing_Dependencies_A.png)
 [B] sudo apt-get install build-essential
 cat /usr/share/doc/build-essential/list
 [C] sudo apt install cmake

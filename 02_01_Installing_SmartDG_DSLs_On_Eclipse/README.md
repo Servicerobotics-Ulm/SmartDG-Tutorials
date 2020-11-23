@@ -151,8 +151,6 @@ You will notice that smartsoft folder will appear at "HOME/SOFTWARE" if it was m
 
 Download and copy the [Installing Script](Install_Eclipse_SmartMDSD-DG.sh) at a location where Eclipse-SmartMDSD with SmartDG features needs to be installed.
 
-![alt text](Installing_SmartDG_DSLs_On_Eclipse_A1.png)
-
 <details>
 <p>
 <summary>Install_Eclipse_SmartMDSD-DG.sh</summary>

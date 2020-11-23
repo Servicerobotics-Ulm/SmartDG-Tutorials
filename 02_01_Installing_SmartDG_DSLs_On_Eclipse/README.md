@@ -1,7 +1,7 @@
 # SmartDG Tutorials
 ## Installing SmartDG DSLs On Eclipse
 
-> :information_source: In case you are working with the [Official Virtual Machine and the SmartMDSD Toolchain](https://wiki.servicerobotik-ulm.de/tutorials:launching-vm-and-toolchain:start). [See Tutorial](../03_01_Installing_SmartDG_DSLs_On_SmartMDSD_VirtualMachine/README.md) before going through this tutorial.
+> :information_source: In case you are working with the [Official Virtual Machine and the SmartMDSD Toolchain](https://wiki.servicerobotik-ulm.de/tutorials:launching-vm-and-toolchain:start). See [This Tutorial](../03_01_Installing_SmartDG_DSLs_On_SmartMDSD_VirtualMachine/README.md) before going through the following steps.
 
 #### Download Installation script
 Download and copy the [Installing Script](Install_Eclipse_SmartMDSD-DG.sh) at a location where Eclipse-SmartMDSD with SmartDG features needs to be installed.

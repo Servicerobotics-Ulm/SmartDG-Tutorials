@@ -108,39 +108,3 @@ In future other domain specific Tier-2 Environment models will be placed here.
 
 :information_source: Watch video [Importing Tier-2 SmartDG Service models in the workspace](Importing_DE_Model_For_Environment_SmartMDSD_C7.mp4)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------
-
-### Adding SmartDG Dependency Object Model to SmartMDSD Component Projects
-
-### Adding SmartDG Dependency Graph Model to SmartMDSD System Projects
-
-
-

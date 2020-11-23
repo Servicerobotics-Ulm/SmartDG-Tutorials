@@ -72,6 +72,7 @@ echo "########################################## SmartDG_Install_Dependencies DO
 
 Associated Videos:
 [Running Script on a new Ubuntu 20.04 Machine](SmartDG_Install_DependenciesSpeedy.mp4)
+
 [Running Script when all dependencies are already installed](SmartDG_Install_Dependencies_II_RunSpeedy.mp4)
 
 #### Manual step by step install

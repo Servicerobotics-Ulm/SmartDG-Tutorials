@@ -124,7 +124,7 @@ Component instances that are of components with the existing SmartDG component m
 
 32
 00:07:52,000 --> 00:08:07,000
-Add a new SmartDG model to the component project.
+Add a new SmartDG model to the System project "SurveillanceSystem".
 
 33
 00:08:08,000 --> 00:08:24,000

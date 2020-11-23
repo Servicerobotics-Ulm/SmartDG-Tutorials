@@ -1,7 +1,10 @@
 # SmartDG Tutorials
 ## Installing SmartDG DSLs On Eclipse
 
-> :information_source: In case you are working with the [Official Virtual Machine and the SmartMDSD Toolchain](https://wiki.servicerobotik-ulm.de/tutorials:launching-vm-and-toolchain:start). See [This Tutorial](../03_01_Installing_SmartDG_DSLs_On_SmartMDSD_VirtualMachine/README.md) before going through the following steps.
+> :warning: In case you are working with the [Official Virtual Machine and the SmartMDSD Toolchain](https://wiki.servicerobotik-ulm.de/tutorials:launching-vm-and-toolchain:start). See [This Tutorial](../03_01_Installing_SmartDG_DSLs_On_SmartMDSD_VirtualMachine/README.md) before going through the following steps. Jump to step 2 once you are back. Look for the following indication  :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon:.
+
+> :warning: It is not possible to build and run SmartDG DSL models on Eclipse without SmartDG Library installed on your machine.
+> :warning: Install SmartDG Library on your machine before you install SmartDG DSLs On Eclipse [This Tutorial](../01_02_Installing_SmartDG_Library/README.md).
 
 ### Download and run the installation script on a generic machine
 > :warning: Skip this step in case you are working with the [Official Virtual Machine and the SmartMDSD Toolchain](https://wiki.servicerobotik-ulm.de/tutorials:launching-vm-and-toolchain:start). 
@@ -144,7 +147,7 @@ You will notice that smartsoft folder will appear at "HOME/SOFTWARE" if it was m
 
 :information_source: Watch video [Installation script on a generic machine](Installing_SmartDG_DSLs_On_Eclipse_A4.mp4)
 
-### Download and run the installation script
+### Download and run the installation script :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: 
 
 Open a new terminal window and run the [Installing Script](Install_Eclipse_SmartMDSD-DG.sh) (again !! in case you have already run it once in the step above).
 

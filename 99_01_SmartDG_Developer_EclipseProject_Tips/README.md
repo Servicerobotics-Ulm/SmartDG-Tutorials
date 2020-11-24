@@ -110,5 +110,5 @@
 
 ![alt text](SmartDG_Developer_EclipseProject_Tips_D24.png)
 
-:information_source: Watch video [Steps to generate doxygen documentation](SmartDG_Developer_Doxygen_Tips_E.mp4)
+:information_source: Watch video [Steps to generate doxygen documentation](SmartDG_Developer_EclipseProject_Tips_D25Speedy.mp4)
 

@@ -39,8 +39,8 @@ Paste the component and connector transfer functions in the src folder of the bu
 Import any SmartDG Service model in the workspace.
 
 11
-00:02:18,896 --> 00:02:18,000
-
+00:01:56,000 --> 00:02:18,000
+These Tier-2 Service models may be used by component projects to enhance Dependency Graph or Dependency Object domain-specific usage.
 
 12
 00:02:26,563 --> 00:02:32,252
@@ -124,7 +124,7 @@ Component instances that are of components with the existing SmartDG component m
 
 32
 00:07:52,000 --> 00:08:07,000
-Add a new SmartDG model to the component project.
+Add a new SmartDG model to the System project "SurveillanceSystem".
 
 33
 00:08:08,000 --> 00:08:24,000

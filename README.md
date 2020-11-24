@@ -73,7 +73,7 @@ Licence: BSD 3-Clause License ( https://opensource.org/licenses/BSD-3-Clause )
 
 #### [ :notebook: 04_01_SmartDG_Official_Demo_SmartMDSD](04_01_SmartDG_Official_Demo_SmartMDSD/README.md)
 
-### Tutorials for Developers
+### SmartDG Tutorials for Developers
 
 #### [ :notebook: 99_01_SmartDG_Developer_EclipseProject_Tips](99_01_SmartDG_Developer_EclipseProject_Tips/README.md)	
 

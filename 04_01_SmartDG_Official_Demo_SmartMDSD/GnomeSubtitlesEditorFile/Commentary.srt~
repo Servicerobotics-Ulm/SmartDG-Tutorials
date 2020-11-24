@@ -215,14 +215,18 @@ An animated "Live" dot indicates that the "SmartDG Lite Mode" is synced with the
 "SmartDG Lite Mode" provides greater functionality in terms of handling and observing the components and individual dependency links.
 
 55
-00:11:58,000 --> 00:12:47,000
+00:11:58,000 --> 00:12:41,000
 Changes made in any of the General SmartDG component or dependency object views are reflected immediately in "SmartDG Lite Mode".
 
 56
-00:12:48,000 --> 00:12:57,000
-"SmartDG Lite Mode" is in the experimental stage. Plans to make this the principal GUI are in the pipeline.
+00:12:41,100 --> 00:12:51,900
+Now we have switched to the Reverse Business Logic.
 
 57
+00:12:52,000 --> 00:12:57,000
+"SmartDG Lite Mode" is in the experimental stage. Plans to make this the principal GUI are in the pipeline.
+
+58
 00:12:58,000 --> 00:13:14,150
 Functionality to add/delete dependencies and change the values of dependency object instances in "SmartDG Lite Mode" is imagined as a future possibility.
 

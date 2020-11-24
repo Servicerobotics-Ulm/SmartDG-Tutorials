@@ -13,6 +13,6 @@ This lesson describes how to use the SmartDGMDSD Toolchain with SmartDG: The Dep
 
   * [[tutorials:smartdg-dependency-graphs:]]\\ This tutorial adds SmartDG Dependency Graphs to an existing SmartMDSD system project.\\
   
-  * [[tutorials:smartdg:]]\\ SmartDG User-Tutorials and Wiki.\\
+  * [[tutorials:smartdg:]]\\ Lists and links to SmartDG Tutorials and Repositories.\\
 
 <WRAP clear/>
